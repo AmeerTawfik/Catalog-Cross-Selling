@@ -10,6 +10,7 @@ Exeter, Inc. is a catalog firm that sells products in a number of different cata
 * Garden
 * Novelty gift
 * Jewelry
+
 The costs of printing and distributing catalogs are high.
 By far the biggest cost of operation is the cost of promoting products to people who buy nothing.
 Having invested so much in the production of artwork and printing of catalogs, Exeter wants to take every opportunity to use them effectively.
